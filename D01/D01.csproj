@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Omar\Desktop\ASP C44_-_C44 G00 C#2_-_Omar Mohamed Kamel.cs" Link="ASP C44_-_C44 G00 C#2_-_Omar Mohamed Kamel.cs" />
+  </ItemGroup>
+
+</Project>
